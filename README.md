@@ -13,9 +13,9 @@
 
 🌱 Skills:
 - Java or C++/C
-- Networking
-- DNS
+- Networking 
 - Data Structures & Algorithms
+- Current working on full-stack project using Node.js, Express, PostgreSQL, Angular, and   AWS with REST APIs, authentication, testing, and CI/CD deployment.
 
 📫 Connect with me:
 - LinkedIn: linkedin.com/in/rebecca-wan-bb4a65364
@@ -28,4 +28,4 @@ Developed a JavaFX desktop application using OOP principles to track sports acti
 
 ## Languages & Tools
 
-Java  • C++ / C • Git 
+Java  • C++ • C • Git • VS Code 
